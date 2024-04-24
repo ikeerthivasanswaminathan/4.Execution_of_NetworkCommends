@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
 
-## AIM :Use of Network commands in Real Time environment
+## Aim : Use of Network commands in Real Time environment
 
 ## Software : Command Prompt And Network Protocol Analyzer
 
